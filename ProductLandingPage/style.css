@@ -1,0 +1,42 @@
+body{
+    background-image:url(https://wallpapertag.com/wallpaper/full/8/2/1/466401-new-shelf-desktop-background-1920x1200-picture.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+    text-align: center;
+}
+#header{
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 300%;
+  text-align: center;
+  
+}
+a{
+  color: black;
+  text-decoration: none; 
+   font-size: 150%;
+   
+}
+a:hover{
+  color:white;
+    text-decoration:none;
+    cursor:pointer;
+    
+}
+
+#container{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+   border: 6px solid grey ;
+  background-color: white;
+ width:1000px;
+  height: auto;
+  margin:0 auto;
+  font-size: 200%;
+}
+.image{
+  display:inline-block;
+}
+.image-2{
+  width: 600px;
+}
