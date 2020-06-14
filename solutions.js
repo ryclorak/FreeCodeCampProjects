@@ -15,4 +15,6 @@ return collection.every((e,i)=>{
 }
 
 truthCheck([{"user": "Tinky-Winky", "sex": "male"}, {"user": "Dipsy", "sex": "male"}, {"user": "Laa-Laa", "sex": "female"}, {"user": "Po", "sex": "female"}], "sex");
-
+//does this check whether the user has a sex assigned?
+//could you put it on two lines to make it more readable?
+//also this made me laugh pretty loudly.
